@@ -18,5 +18,5 @@
 - X
 - Bow Tie
 
-[ !NOTE]
-code was test using size 7 and can be change by changing _size_ variable in Program.cs
+> [ !NOTE]
+> code was test using size 7 and can be change by changing _size_ variable in Program.cs .
